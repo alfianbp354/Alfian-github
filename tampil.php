@@ -5,6 +5,7 @@ $db = new database();
 <h1>Database Mahasiswa Baru Politeknik Caltex Riau 2021</h1>
 <h2></h2>
 <h3>Data Calon Maba 2021</h3>
+<h3>Nama Saya Alfian Bagus Pranata dan saya sedang mengerjakan GITHUB</h3>
 
 <a href="input.php">Input Data</a>
 <table border="1">
