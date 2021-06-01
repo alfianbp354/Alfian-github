@@ -6,6 +6,7 @@ $db = new database();
 <h2></h2>
 <h3>Data Calon Maba 2021</h3>
 <h3>Nama Saya Alfian Bagus Pranata dan saya sedang mengerjakan GITHUB</h3>
+<h3>Ini adalah hasil edit di branch1</h3>
 
 <a href="input.php">Input Data</a>
 <table border="1">
